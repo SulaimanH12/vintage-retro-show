@@ -1,0 +1,24 @@
+{
+    "name": "test-gulp",
+    "description": "Gulp test",
+    "version": "1.0.0",
+    "dependencies": {
+        "gulp": "^3.9.1",
+        "gulp-watch": "5.0.1",
+        "gulp-htmlmin": "5.0.1",
+        "gulp-sass": "^4.0.2",
+        "gulp-clean-css": "^3.10.0",
+        "gulp-postcss": "^8.0.0",
+        "gulp-uncss": "1.0.6",
+        "gulp-plumber": "^1.2.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-sourcemaps": "^2.6.4",
+        "gulp-uglify": "3.0.1",
+        "gulp-responsive": "2.11.0",
+        "gulp-strip-debug": "3.0.0",
+        "gulp-notify": "3.2.0",
+        "gulp-imagemin": "4.1.0",
+        "autoprefixer": "^9.2.0",
+        "browser-sync": "2.26.3"
+    }
+}
